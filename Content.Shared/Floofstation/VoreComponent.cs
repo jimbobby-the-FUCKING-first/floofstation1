@@ -12,7 +12,7 @@ public sealed partial class VoreComponent : Component
     public float Delay = 5f;
 
     [DataField]
-    public SoundSpecifier? SoundDevour = new SoundPathSpecifier("/Audio/Floof/Vore/gulp.ogg")
+    public SoundSpecifier? SoundDevour = new SoundPathSpecifier("/Audio/Effects/demon_consume.ogg")
     {
         Params = AudioParams.Default.WithVolume(-4f).WithMaxDistance(1f),
     };
