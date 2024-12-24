@@ -1,6 +1,6 @@
-mood-effect-BeingKissed = That kiss was delightful.
+mood-effect-BeingKissed = PLEASE GOD GET ME OFF THIS GOD FORSAKEN REALM
 
-mood-effect-BeingLicked = I've been Licked!
+mood-effect-BeingLicked = OH GOD OH FUCK
 
 mood-effect-IceCreamBenefit = Ice cream, Yum!
 
