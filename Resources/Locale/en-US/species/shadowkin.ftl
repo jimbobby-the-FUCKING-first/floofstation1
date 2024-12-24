@@ -6,10 +6,10 @@ shadowkin-power-4 = great
 shadowkin-power-3 = good
 shadowkin-power-2 = okay
 shadowkin-power-1 = exhausted
-shadowkin-power-0 = drained
+shadowkin-power-0 = fucked
 
-examine-mindbroken-shadowkin-message = {CAPITALIZE($entity)} seems to be a blackeye.
+examine-mindbroken-shadowkin-message = {CAPITALIZE($entity)} seems to be a blackeye. Poor bastard.
 
 identity-eye-shadowkin = {$color}-eye
 
-shadowkin-blackeye = I feel my power draining away...
+shadowkin-blackeye = NOOOOOOO NOT MY POWER FUCK-
