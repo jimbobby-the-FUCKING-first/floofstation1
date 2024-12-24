@@ -6,24 +6,24 @@ hypnosis-power-feedback = The air around {CAPITALIZE($entity)} shimmers hypnotic
 
 hypno-already-under = {CAPITALIZE($target)} is already under hypnosis.
 examined-hypno = Seems completely content with everything
-lost-subject = I feel my powers dissipate. My subject is once again free...
-hypno-free = I have awoken from my trance...
+lost-subject = I feel my powers dissipate.
+hypno-free = god fuck im awake what is it
 hypno-release = Release Subject
 hypno-break = Break Hypnosis
 
 hypno-start = You stare into {POSS-ADJ($target)} eyes...
-hypno-phase-1 = {CAPITALIZE($target)} eyes are shining with a powerful but calming aura...
-hypno-phase-2 = The deeper you look into {POSS-ADJ($target)} eyes... the more difficult it is to think... easier to listen...
-hypno-phase-3 = It's so hard to think. Maybe... I don't need to anymore? Just sink... only {POSS-ADJ($target)}.
-hypno-success = {CAPITALIZE($target)} stares into your eyes, lost in them, lost in you.
+hypno-phase-1 = {CAPITALIZE($target)} eyes are shining with a powerful god damn aura...
+hypno-phase-2 = The deeper you look into {POSS-ADJ($target)} eyes... the more difficult it is to think...
+hypno-phase-3 = It's so hard to think. Maybe... I don't need to anymore? Just sink... only {POSS-ADJ($target)}... oh shgit is that denny's over there?
+hypno-success = {CAPITALIZE($target)} stares into your eyes, lost in them, lost in your fucking eyes. fuck you real god damn clever huh
 
-mood-effect-BeingHypnotized = It's so wonderful to not have to think... to be mindless... Obedience is pleasure...
-mood-effect-LostHypnosis = I miss being under trance like that... it was so much easier...
+mood-effect-BeingHypnotized = you fucking dumbass
+mood-effect-LostHypnosis = lucky bastard
 
 hypnotized = [bold][color=red]You have been HYPNOTISED by {CAPITALIZE($entity)}!
-    Warning: You are not an antag, and still cannot help antags. THIS IS NOT AN ANTAGONIST ROLE.
-    Standard server rules apply, this is just for ROLEPLAY intents
-    If this was done against your preferences, AHELP "Adminhelp", otherwise, enjoy![/color][/bold]
+    Warning: You are not an antag, and still can help antags.
+    Standard server rules DONT apply, this is just really funny
+    If this was done against your preferences, lol, lmao even.[/color][/bold]
 
 hypnotist = [bold][color=red]You have enthralled {CAPITALIZE($entity)}!
     Have then serve your will, and do what you desire!
@@ -32,9 +32,9 @@ hypnotist = [bold][color=red]You have enthralled {CAPITALIZE($entity)}!
 stophypno = [bold][color=red]You are no longer hypnotized!
     You are no longer under the mental control of {CAPITALIZE($entity)}.[/color][/bold]
 
-has-no-consent = I cannot enter his mind.
+has-no-consent = DAMN POWERGAMER
 
 trait-name-HypnoticGaze = Hypnotic Gaze
 trait-description-HypnoticGaze =
     Within your eyes lies the ability to place others under your control. You are capable of placing others in a trance, regardless of
-    whether or not you possess any other notable psychic powers.
+    whether or not you possess any other notable psychic powers. WARNING! Those hypnotised do DOUBLE damage to you!
